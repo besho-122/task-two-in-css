@@ -1,0 +1,35 @@
+
+
+.OUR_AMAZING_TEAM{
+    background-color: rgba(178, 220, 255, 0.836);
+    text-align: center;
+    font:bold 20px arial;
+    font-family:'Courier New';
+    width: 100%;
+    
+
+}
+.team {
+    text-align: center;
+    color: aliceblue;
+}
+
+.member{
+ float:left;
+  width: 30%; 
+  margin: 1%;
+  background-color: rgb(1, 78, 145); 
+  border-radius: 60px;
+ 
+
+}
+.clear{
+    clear: left;
+}
+.pic{
+   border-radius: 60px;
+   width:50%;
+   
+}
+
+
